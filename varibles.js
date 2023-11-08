@@ -1,3 +1,4 @@
 paswoord=123456
 nirvana=12
-artista=newfang
+artista="newfang"
+title="smell like teen spirit"
